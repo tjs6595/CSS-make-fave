@@ -1,0 +1,27 @@
+#navbarText {
+    font-size: 20;
+}
+
+.body-nav-container {
+    font-family: 'Times New Roman', Times, serif;    
+}
+
+.body-nav-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: 80%;
+}
+
+.body-nav-list-1, .body-nav-list-2, .body-nav-list-3, .body-nav-list-4, .body-nav-list-5, .body-nav-list-6, .body-nav-list-7, .body-nav-list-8 {
+    width: 20%;
+}
+
+.card-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.card {
+    min-width: 50%;
+}
